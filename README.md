@@ -9,7 +9,7 @@ This project uses machine learning to classify iris flowers into three species â
 
 ## Dataset
 - source:(https://archive.ics.uci.edu/ml/datasets/iris)
-- Features:Sepal length, Sepal width, Petal length, Petal width
+- Features: Sepal length, Sepal width, Petal length, Petal width
 
-## ðŸ“ˆ Output
+## Output
 - Model Accuracy
